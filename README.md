@@ -6,6 +6,8 @@ Assignment 4
 
 steps to create react-App
 
-npx create-react-app assignment4_1
-cd assignment4_1
-npm start
+step1: npx create-react-app assignment4_1
+
+step2: cd assignment4_1
+
+step 3: npm start
